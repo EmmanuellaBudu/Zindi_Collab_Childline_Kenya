@@ -27,5 +27,5 @@ Team thinkingface working on the third Zindi Mentorship challenge.
 
 |  Model | Score(No CV)| Local score (5 fold CV) | Score on Zindi| Features Used |
 | :---:   | :----:      | :----: |:--: | :----------------------------------: |
-|Model from Emmanuella | 756.76 | ??? | 1163.812 | Dropped:'TimefromPickuptoArrival','ArrivalatDest-Day','ArrivalatDest-Weekday','ArrivalatDest-Time' and'Precipitation' |
-|Starter Model | ??? | ???   | ??? | ??? | ???| List of usefule features |
+|Model from Emmanuella | ??? | ??? | ??? | ??? |
+|Starter Model | ??? | ???   | ??? | ??? | ???| List of useful features |
