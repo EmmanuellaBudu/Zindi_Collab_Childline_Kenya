@@ -27,5 +27,5 @@ Team thinkingface working on the third Zindi Mentorship challenge.
 
 |  Model | Score(No CV)| Local score (5 fold CV) | Score on Zindi| Features Used |
 | :---:   | :----:      | :----: |:--: | :----------------------------------: |
-|Model from Emmanuella | ??? | ??? | ??? | ??? |
+|Starter Model  | ??? | ??? | ??? | ??? |
 |Starter Model | ??? | ???   | ??? | ??? | ???| List of useful features |
